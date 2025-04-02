@@ -28,7 +28,7 @@ O sistema foi desenvolvido para consolidar os conhecimentos em manipulação de 
 📂 Tecnologias utilizadas:
 
 
-- Linguagem C
+- Linguagem C++
 
 - Manipulação de arquivos (.txt)
 
